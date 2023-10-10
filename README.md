@@ -4,7 +4,7 @@ A ferramenta verifica se buckets sensíveis da amazon S3 estão indexados no bin
 
 # Tutorial de uso:
 
-1) Inserir a api key do bing na variavel "api_key" do arquivo "check-buckets-indexed-by-bing.py".
+1) Inserir a api key do bing na variável "api_key" do arquivo "check-buckets-indexed-by-bing.py".
 2) `python3 check-buckets-indexed-by-bing.py`
 
 # Demonstração:
